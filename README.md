@@ -12,7 +12,9 @@ ANS: Version control systems (VCS) help developers track changes to their code a
 5. Pull Requests: A method for reviewing and approving changes before merging them.
 6. Remote Repositories: Online storage (like GitHub) for easy access and collaboration.
 
+
    GitHub is a widely used Git-based version control platform because it provides:
+
 
 1. Collaboration: Enables multiple developers to work on a project simultaneously.
 2. Backup & Security: Cloud storage prevents data loss.
